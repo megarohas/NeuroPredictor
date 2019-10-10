@@ -1,0 +1,13 @@
+C:\Users\rohas\Desktop\Projects\NeuroPredictor\NeuroPredictor\bin\Debug\NeuroPredictor.exe.config
+C:\Users\rohas\Desktop\Projects\NeuroPredictor\NeuroPredictor\bin\Debug\NeuroPredictor.exe
+C:\Users\rohas\Desktop\Projects\NeuroPredictor\NeuroPredictor\bin\Debug\NeuroPredictor.pdb
+C:\Users\rohas\Desktop\Projects\NeuroPredictor\NeuroPredictor\obj\Debug\NeuroPredictor.csprojResolveAssemblyReference.cache
+C:\Users\rohas\Desktop\Projects\NeuroPredictor\NeuroPredictor\obj\Debug\NeuroPredictor.csproj.CoreCompileInputs.cache
+C:\Users\rohas\Desktop\Projects\NeuroPredictor\NeuroPredictor\obj\Debug\NeuroPredictor.exe
+C:\Users\rohas\Desktop\Projects\NeuroPredictor\NeuroPredictor\obj\Debug\NeuroPredictor.pdb
+C:\Users\rohas\Google Диск\Проги\1 курсач\NeuroPredictor\NeuroPredictor\bin\Debug\NeuroPredictor.exe.config
+C:\Users\rohas\Google Диск\Проги\1 курсач\NeuroPredictor\NeuroPredictor\obj\Debug\NeuroPredictor.exe
+C:\Users\rohas\Google Диск\Проги\1 курсач\NeuroPredictor\NeuroPredictor\obj\Debug\NeuroPredictor.pdb
+C:\Users\rohas\Google Диск\Проги\1 курсач\NeuroPredictor\NeuroPredictor\bin\Debug\NeuroPredictor.exe
+C:\Users\rohas\Google Диск\Проги\1 курсач\NeuroPredictor\NeuroPredictor\bin\Debug\NeuroPredictor.pdb
+C:\Users\rohas\Google Диск\Проги\1 курсач\NeuroPredictor\NeuroPredictor\obj\Debug\NeuroPredictor.csprojResolveAssemblyReference.cache
